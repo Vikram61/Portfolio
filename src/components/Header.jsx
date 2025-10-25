@@ -59,7 +59,7 @@ const Header = () => {
               >
                 <Linkedin size={20} />
               </a>
-              <a href="/vikram_vasisht.pdf" download>
+              <a href="/vikram.pdf" download="VikramVasishtMasana.pdf">
                 <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 flex items-center space-x-2">
                 <Download size={16} />
                 <span>Resume</span>
